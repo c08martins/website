@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.element {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 1;
+  width: 12%;
+  height: 61px;
+  margin: -136px 0 0 16.83333%;
+  background-color: rgb(59, 59, 59);
+}
+
+.text {
+  position: relative;
+  float: left;
+  z-index: 0;
+  width: 32.4%;
+  min-height: 232px;
+  margin: 39px 0 0 16.79948%;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(0, 0, 0);
+}

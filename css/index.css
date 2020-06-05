@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(40, 40, 40);
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(185, 185, 185);
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+.element {
+  float: left;
+  clear: both;
+  width: 12%;
+  height: 44px;
+  margin: 33px 0 0 16.79948%;
+  background-color: rgb(222, 222, 222);
+}
+
+.text {
+  float: left;
+  width: 18.8%;
+  min-height: 87px;
+  margin: 54px 0 0 16.79948%;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(185, 185, 185);
+}
